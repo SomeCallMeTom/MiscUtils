@@ -1,6 +1,9 @@
 [submodule "azure-administration-configure-and-manage-virtual-networking-2871074"]
-	path = azure-administration-configure-and-manage-virtual-networking-2871074
+	path = AZAdmin-VNets
 	url = https://github.com/LinkedInLearning/azure-administration-configure-and-manage-virtual-networking-2871074.git
 [submodule "log4ps"]
 	path = log4ps
 	url = https://github.com/gaelcolas/log4ps.git
+[submodule "AZAdmin-Storage"]
+	path = AZAdmin-Storage
+	url = https://github.com/LinkedInLearning/azureadmin-storage-2972411.git
